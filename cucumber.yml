@@ -1,0 +1,2 @@
+default: --no-source --color --format junit --out results/testreport.xml --tags ~@not_ready
+#default: --no-source --color --format PrettyFace::Formatter::Html --out results/index.html --tags ~@not_ready
